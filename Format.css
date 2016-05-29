@@ -1,0 +1,18 @@
+h1, h2, h3, button {
+    font-family: "Open Sans";
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 20pt;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 15pt;
+
+}
+
+button {
+    font-size: 15pt;
+}
